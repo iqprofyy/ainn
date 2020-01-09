@@ -1,2 +1,0 @@
-# ainn
-Artificial Immune Neuronetwork
